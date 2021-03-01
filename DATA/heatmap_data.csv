@@ -1,5 +1,4 @@
 group,variable,value
-Ökonomisch,M10,2
 Ökonomisch,M9,4
 Ökonomisch,M8,10
 Ökonomisch,M7,4
@@ -9,7 +8,6 @@ group,variable,value
 Ökonomisch,M3,20
 Ökonomisch,M2,10
 Ökonomisch,M1,20
-Ökologisch,M10,2
 Ökologisch,M9,4
 Ökologisch,M8,10
 Ökologisch,M7,4
@@ -19,7 +17,6 @@ group,variable,value
 Ökologisch,M3,20
 Ökologisch,M2,10
 Ökologisch,M1,20
-Sozial,M10,2
 Sozial,M9,4
 Sozial,M8,10
 Sozial,M7,4
